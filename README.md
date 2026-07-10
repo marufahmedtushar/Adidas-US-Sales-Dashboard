@@ -65,9 +65,10 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 **Insights**
 
 • 3rd Quarter is the highest selling quarter.
-• Although the sales has grown over the year but the profit is low.
-• In the month of March, June and October, supply from retailers was low, which caused sales to drop.
 
+• Although the sales has grown over the year but the profit is low.
+
+• In the month of March, June and October, supply from retailers was low, which caused sales to drop.
 
 **Product Performance**
 
@@ -76,8 +77,11 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 **Insights**
 
 • Men's Street Footwear is the top selling product both by value and quantity.
+
 • Men's Street Footwear is also the highest profit generating product.
+
 • Men's Apparel is the less selling product by quantity.
+
 • Women's Athletic Footwear is the less selling product by value.
 
 **Location Wise Performance**
@@ -87,9 +91,13 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 **Insights**
 
 • Charleston is the highest selling city
+
 • Omaha is the lowest selling city
+
 • Nebraska is the lowest selling state
+
 • New York is the highest selling state
+
 • Midwest is the lowest selling region
 
 **Retailer Performance**
@@ -100,6 +108,7 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 **Insights**
 
 • Total Retailer 6
+
 • Foot Locker is the highest retailer
 
 
