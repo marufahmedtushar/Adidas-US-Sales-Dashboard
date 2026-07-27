@@ -33,7 +33,8 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 
 **Overview**
 
-<img width="712" height="400" alt="overview" src="https://github.com/user-attachments/assets/304bbfc1-94ae-4f02-928f-e2f5e87ff44d" />
+<img width="712" height="400" alt="Overview" src="https://github.com/user-attachments/assets/576fe5eb-18e4-4992-801f-93dc73269343" />
+
 
 **Insights**
 
@@ -59,7 +60,8 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 
 **Trend Analysis**
 
-<img width="618" height="348" alt="trend analysis" src="https://github.com/user-attachments/assets/3b8e8611-3eb6-4baa-921c-3bc6f2746189" />
+<img width="708" height="400" alt="Trend Analysis" src="https://github.com/user-attachments/assets/ac72d498-1aac-4777-bc05-720e1e57adcd" />
+
 
 
 **Insights**
@@ -68,11 +70,23 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 
 • Although the sales has grown over the year but the profit is low.
 
-• In the month of March, June and October, supply from retailers was low, which caused sales to drop.
+**Sales drop in March, June & October**
 
+• Outlet sales went down in June.
+
+• Walmart & Kohl's supply dropped.
+
+• Women's Athletic Footwear is the less selling product in these month.
+
+• In these month Midwest & South got less supplies.
+
+• Though the per unit price is stable during these month, sales drops.
+
+• Unit Sales also drops.
 **Product Performance**
 
-<img width="709" height="400" alt="product performence" src="https://github.com/user-attachments/assets/3a498a51-9cd1-492a-b348-506ae15e2440" />
+<img width="600" height="336" alt="Product Performance" src="https://github.com/user-attachments/assets/145fd7f9-846e-42c7-92ae-857f3052ef21" />
+
 
 **Insights**
 
@@ -86,7 +100,8 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 
 **Location Wise Performance**
 
-<img width="711" height="400" alt="location wise performance" src="https://github.com/user-attachments/assets/43fc2f68-0245-41d0-b609-1474d0cc3b52" />
+<img width="602" height="339" alt="Location Wise Performance" src="https://github.com/user-attachments/assets/6f0808da-b0b2-4f89-ae8b-09e4b8f993b4" />
+
 
 **Insights**
 
@@ -102,7 +117,7 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 
 **Retailer Performance**
 
-<img width="619" height="343" alt="retailer" src="https://github.com/user-attachments/assets/7d535fc4-a7f5-4f64-836b-a958baca33b3" />
+<img width="598" height="332" alt="Retailer Performance" src="https://github.com/user-attachments/assets/f7a9f677-cc1f-4b9a-9b8b-060455d0668c" />
 
 
 **Insights**
