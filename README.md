@@ -83,6 +83,7 @@ The objective of this report is to turn the raw, messy Adidas US sales export in
 • Though the per unit price is stable during these month, sales drops.
 
 • Unit Sales also drops.
+
 **Product Performance**
 
 <img width="600" height="336" alt="Product Performance" src="https://github.com/user-attachments/assets/145fd7f9-846e-42c7-92ae-857f3052ef21" />
